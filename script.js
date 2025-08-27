@@ -19,5 +19,6 @@ noButton.addEventListener('touchstart', moveButton);
 
 // Pop-up on "Yes" button click
 yesButton.addEventListener('click', () => {
-    alert("I love you baby");
+    alert("I love you");
 });
+
